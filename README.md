@@ -1,1 +1,1 @@
-Javascript Assignment "IF-ELSE STATMENT"
+Javascript Assignment "IF-ELSE STATEMENT"
